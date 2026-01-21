@@ -1,2 +1,0 @@
-# Instal and Setup NGINX
-
