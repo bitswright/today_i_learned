@@ -47,6 +47,7 @@ Depending on problem, track:
 ## Classic problems
 - [Count Number of Nice Subarrays](/dsa/problems/sliding_window/lc_1248.md)
 - [Number of Substrings Containing All Three Characters](/dsa/problems/sliding_window/lc_1358.md)
+- [Maximum Points You Can Obtain from Cards](/dsa/problems/sliding_window/lc_1423.md)
 
 ## Important variations
 1. At most K
