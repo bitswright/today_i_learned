@@ -45,9 +45,13 @@ Depending on problem, track:
 - maxFreq (sometimes allowed to be stale)
 
 ## Classic problems
-- [Count Number of Nice Subarrays](/dsa/problems/sliding_window/lc_1248.md)
-- [Number of Substrings Containing All Three Characters](/dsa/problems/sliding_window/lc_1358.md)
-- [Maximum Points You Can Obtain from Cards](/dsa/problems/sliding_window/lc_1423.md)
+- Exactly K trick
+  - [Count Number of Nice Subarrays](/dsa/problems/sliding_window/lc_1248.md)
+  - [Subarrays with K Different Integers](/dsa/problems/sliding_window/lc_992.md))
+- Expand while condition is false, shrink while condition is true
+  - [Number of Substrings Containing All Three Characters](/dsa/problems/sliding_window/lc_1358.md)
+- Fixed-size sliding window
+  - [Maximum Points You Can Obtain from Cards](/dsa/problems/sliding_window/lc_1423.md)
 
 ## Important variations
 1. At most K
