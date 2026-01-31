@@ -15,3 +15,7 @@
     - ExtractMin/ExtractMax: $O(logn)$ -> using Heapify
     - DecreaseKey/IncreaseKey: $O(logn)$ -> using insertion
     - Delete: $O(logn)$ -> decrease key to INT_MIN or increase key to INT_MAX, ExtractMin/ExtractMax.
+
+## Classic problems
+- Directly using min-heap
+  - [Kth Largest Element in an Array](/dsa/problems/priority_queue_and_heap/lc_215.md)
