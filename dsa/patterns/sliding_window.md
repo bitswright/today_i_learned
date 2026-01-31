@@ -48,8 +48,9 @@ Depending on problem, track:
 - Exactly K trick
   - [Count Number of Nice Subarrays](/dsa/problems/sliding_window/lc_1248.md)
   - [Subarrays with K Different Integers](/dsa/problems/sliding_window/lc_992.md))
-- Expand while condition is false, shrink while condition is true
+- Minimum Window / Expand while condition is false, shrink while condition is true
   - [Number of Substrings Containing All Three Characters](/dsa/problems/sliding_window/lc_1358.md)
+  - [Minimum Window Substring](/dsa/problems/sliding_window/lc_76.md)
 - Fixed-size sliding window
   - [Maximum Points You Can Obtain from Cards](/dsa/problems/sliding_window/lc_1423.md)
 
