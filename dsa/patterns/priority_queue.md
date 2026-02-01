@@ -21,5 +21,7 @@
   - [Kth Largest Element in an Array](/dsa/problems/priority_queue_and_heap/lc_215.md)
   - [Merge k Sorted Lists](/dsa/problems/priority_queue_and_heap/lc_23.md)
   - [Rank Transform of an Array](/dsa/problems/priority_queue_and_heap/lc_1331.md)
+  - [Connect n ropes with minimal cost](/dsa/problems/priority_queue_and_heap/connect_n_ropes.md)
+  - [Kth Largest Element in a Stream](/dsa/problems/priority_queue_and_heap/lc_703.md)
 - Directly using max-heap
   - [Kth Smallest Element in an Array](/dsa/problems/priority_queue_and_heap/kth_smallest.md)
