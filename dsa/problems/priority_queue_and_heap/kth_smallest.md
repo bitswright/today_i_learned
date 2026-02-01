@@ -22,5 +22,5 @@ Note: The kth smallest element is determined based on the sorted order of the ar
             return pq.top();
         }
         ```
-    - TC: $O(n)$
-    - TC: $O(1)$
+    - TC: $O(nlogk)$
+    - TC: $O(k)$
