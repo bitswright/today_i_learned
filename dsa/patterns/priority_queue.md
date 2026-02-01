@@ -20,3 +20,6 @@
 - Directly using min-heap
   - [Kth Largest Element in an Array](/dsa/problems/priority_queue_and_heap/lc_215.md)
   - [Merge k Sorted Lists](/dsa/problems/priority_queue_and_heap/lc_23.md)
+
+- Directly using max-heap
+  - [Kth Smallest Element in an Array](/dsa/problems/priority_queue_and_heap/kth_smallest.md)
