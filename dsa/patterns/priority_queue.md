@@ -24,6 +24,8 @@
   - [Connect n ropes with minimal cost](/dsa/problems/priority_queue_and_heap/connect_n_ropes.md)
   - [Kth Largest Element in a Stream](/dsa/problems/priority_queue_and_heap/lc_703.md)
   - [Hand of Straights](/dsa/problems/priority_queue_and_heap/lc_846.md)
+  - [Is Array K Sorted](/dsa/problems/priority_queue_and_heap/is_array_k_sorted.md)
+  - [Nearly Sorted](/dsa/problems/priority_queue_and_heap/nearly_array.md)
 - Directly using max-heap
   - [Kth Smallest Element in an Array](/dsa/problems/priority_queue_and_heap/kth_smallest.md)
 - Using Max-Heap:
