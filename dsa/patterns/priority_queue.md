@@ -25,3 +25,5 @@
   - [Kth Largest Element in a Stream](/dsa/problems/priority_queue_and_heap/lc_703.md)
 - Directly using max-heap
   - [Kth Smallest Element in an Array](/dsa/problems/priority_queue_and_heap/kth_smallest.md)
+- Using Max-Heap:
+  - [Maximum Sum Combination](/dsa/problems/priority_queue_and_heap/max_sum_combination.md)
