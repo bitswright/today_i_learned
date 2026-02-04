@@ -27,3 +27,6 @@
   - [Kth Smallest Element in an Array](/dsa/problems/priority_queue_and_heap/kth_smallest.md)
 - Using Max-Heap:
   - [Maximum Sum Combination](/dsa/problems/priority_queue_and_heap/max_sum_combination.md)
+  - [Top K Frequent Elements](/dsa/problems/priority_queue_and_heap/lc_347.md)
+- Using Max-Heap and Min-Heap:
+  - [Find Median from Data Stream](/dsa/problems/priority_queue_and_heap/lc_295.md)
