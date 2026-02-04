@@ -23,6 +23,7 @@
   - [Rank Transform of an Array](/dsa/problems/priority_queue_and_heap/lc_1331.md)
   - [Connect n ropes with minimal cost](/dsa/problems/priority_queue_and_heap/connect_n_ropes.md)
   - [Kth Largest Element in a Stream](/dsa/problems/priority_queue_and_heap/lc_703.md)
+  - [Hand of Straights](/dsa/problems/priority_queue_and_heap/lc_846.md)
 - Directly using max-heap
   - [Kth Smallest Element in an Array](/dsa/problems/priority_queue_and_heap/kth_smallest.md)
 - Using Max-Heap:
