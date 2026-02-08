@@ -92,3 +92,4 @@
     }   
     ``` 
 - [Minimum Bit Flips to Convert Number](/dsa/problems/bit_manipulation/lc_2220.md)
+- [Single Number - I](/dsa/problems/bit_manipulation/lc_136.md)
