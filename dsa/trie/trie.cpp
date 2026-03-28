@@ -99,7 +99,7 @@ public:
 enum Operation { INSERT, SEARCH, STARTS_WITH };
 
 int main() {
-    Trie *trie = new Trie();
+    Trie trie = Trie();
     vector<pair<Operation, string>> operations = {
         {INSERT, "apple"}, 
         {SEARCH, "apple"},
@@ -111,14 +111,14 @@ int main() {
     for(auto op: operations) {
         switch (op.first) {
         case INSERT:
-            trie->insert(op.second);
+            trie.insert(op.second);
             cout << "OK" << endl;
             break;
         case SEARCH:
-            cout << (trie->search(op.second) ? "FOUND" : "NOT_FOUND") << endl;
+            cout << (trie.search(op.second) ? "FOUND" : "NOT_FOUND") << endl;
             break;
         case STARTS_WITH:
-            cout << (trie->startsWith(op.second) ? "STARTS" : "DOES_NOT_START") << endl;
+            cout << (trie.startsWith(op.second) ? "STARTS" : "DOES_NOT_START") << endl;
             break;
         default:
             cout << "ERROR" << endl;
