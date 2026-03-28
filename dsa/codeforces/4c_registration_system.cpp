@@ -38,3 +38,33 @@ output
     OK
     third1
 */
+
+#include <iostream>
+#include <unordered_map>
+using namespace std;
+
+int main() {
+    int n;
+    cin >> n;
+    unordered_map<string, int> mp;
+    while(n--) {
+        string name;
+        cin >> name;
+        if(mp[name] == 0) {
+            mp[name] = 1;
+            cout << "OK\n";
+        }
+        else {
+            int suffix = mp[name];
+            string newName = name + to_string(suffix);
+            while(mp[newName] != 0) {
+                suffix++;
+                newName = name + to_string(suffix);
+            }
+            mp[name] = suffix + 1;
+            mp[newName] = 1;
+            cout << newName << endl;
+        }
+    }
+    return 0;
+}
